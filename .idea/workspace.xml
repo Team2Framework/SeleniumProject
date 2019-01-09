@@ -13,6 +13,7 @@
       <change afterPath="$PROJECT_DIR$/../NewTourDemoaut/NewTour/src/main/java/pages/LogIn.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NewTourDemoaut/NewTour/src/main/java/pages/SelectFlight.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NewTourDemoaut/NewTour/src/test/java/base/test/NewTourHomeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewTour.Demoaut/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DolaProject" beforeDir="false" afterPath="$PROJECT_DIR$/../DolaProject" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DreamProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DreamProject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GroupProject2019" beforeDir="false" afterPath="$PROJECT_DIR$/../GroupProject2019" afterDir="false" />
@@ -20,12 +21,20 @@
       <change beforePath="$PROJECT_DIR$/../MidtermNovember2018" beforeDir="false" afterPath="$PROJECT_DIR$/../MidtermNovember2018" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Netflix" beforeDir="false" afterPath="$PROJECT_DIR$/../Netflix" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project2019" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2019" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumAutomationProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Web-Automation-November2018" beforeDir="false" afterPath="$PROJECT_DIR$/../Web-Automation-November2018" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebAutomation2018/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAutomation2018/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
+    <ignored path="$PROJECT_DIR$/NewTour.Demoaut/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,46 +42,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="469" selection-start-line="469" selection-end-line="469" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3489#3497#0" expanded="true" />
-                <element signature="e#7980#7981#0" expanded="true" />
-                <element signature="e#8010#8011#0" expanded="true" />
-                <element signature="e#8056#8057#0" expanded="true" />
-                <element signature="e#8123#8124#0" expanded="true" />
-                <element signature="e#8963#8964#0" expanded="true" />
-                <element signature="e#9038#9039#0" expanded="true" />
-                <element signature="e#9898#9899#0" expanded="true" />
-                <element signature="e#9978#9979#0" expanded="true" />
-                <element signature="e#10029#10030#0" expanded="true" />
-                <element signature="e#10096#10097#0" expanded="true" />
-                <element signature="e#11523#11535#0" expanded="true" />
-                <element signature="e#11732#11744#0" expanded="true" />
-                <element signature="e#10480#10488#0" expanded="true" />
-                <element signature="e#12126#12138#0" expanded="true" />
-                <element signature="e#12350#12362#0" expanded="true" />
-                <element signature="e#11482#11483#0" expanded="true" />
-                <element signature="e#11549#11550#0" expanded="true" />
-                <element signature="e#11839#11840#0" expanded="true" />
-                <element signature="e#11879#11880#0" expanded="true" />
-                <element signature="e#11916#11917#0" expanded="true" />
-                <element signature="e#11959#11960#0" expanded="true" />
-                <element signature="e#12069#12077#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="34">
               <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -84,13 +58,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="51">
               <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1223#1231#0" expanded="true" />
-                <element signature="e#2103#2111#0" expanded="true" />
-                <element signature="e#3957#3965#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
+            <state relative-caret-position="476">
               <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
               <folding>
                 <element signature="e#402#403#0" expanded="true" />
@@ -119,10 +90,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-696">
+            <state relative-caret-position="-1080">
               <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -131,31 +102,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-628">
+            <state relative-caret-position="17">
               <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-              <folding>
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-                <element signature="e#494#495#0" expanded="true" />
-                <element signature="e#536#537#0" expanded="true" />
-                <element signature="e#571#572#0" expanded="true" />
-                <element signature="e#602#603#0" expanded="true" />
-                <element signature="e#650#651#0" expanded="true" />
-                <element signature="e#690#691#0" expanded="true" />
-                <element signature="e#722#723#0" expanded="true" />
-                <element signature="e#750#751#0" expanded="true" />
-                <element signature="e#792#793#0" expanded="true" />
-                <element signature="e#826#827#0" expanded="true" />
-                <element signature="e#855#856#0" expanded="true" />
-                <element signature="e#880#881#0" expanded="true" />
-                <element signature="e#916#917#0" expanded="true" />
-                <element signature="e#944#945#0" expanded="true" />
-                <element signature="e#990#991#0" expanded="true" />
-                <element signature="e#1088#1089#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -172,7 +132,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="17">
               <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -184,13 +144,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="17">
               <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#270#291#0" expanded="true" />
-                <element signature="e#643#644#0" expanded="true" />
-                <element signature="e#689#690#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -199,7 +157,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="17">
               <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -218,7 +176,13 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -235,6 +199,7 @@
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/Student.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/User.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" />
+        <option value="$PROJECT_DIR$/NewTour.Demoaut/pom.xml" />
       </list>
     </option>
   </component>
@@ -287,70 +252,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="SeleniumAutomationProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumAutomationProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumAutomationProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumAutomationProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumAutomationProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumAutomationProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumAutomationProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumAutomationProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumAutomationProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumAutomationProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumAutomationProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumAutomationProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumAutomationProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumAutomationProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="databases" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumAutomationProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumAutomationProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="reporting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumAutomationProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumAutomationProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utility" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="NewTour.Demoaut" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -360,7 +268,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547074534582" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547075973567" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -395,32 +304,32 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" visible="true" weight="0.3295302" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Mongo Explorer" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.3295302" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -438,82 +347,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#270#291#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
+        <state relative-caret-position="7123">
           <caret line="469" selection-start-line="469" selection-end-line="469" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3489#3497#0" expanded="true" />
-            <element signature="e#7980#7981#0" expanded="true" />
-            <element signature="e#8010#8011#0" expanded="true" />
-            <element signature="e#8056#8057#0" expanded="true" />
-            <element signature="e#8123#8124#0" expanded="true" />
-            <element signature="e#8963#8964#0" expanded="true" />
-            <element signature="e#9038#9039#0" expanded="true" />
-            <element signature="e#9898#9899#0" expanded="true" />
-            <element signature="e#9978#9979#0" expanded="true" />
-            <element signature="e#10029#10030#0" expanded="true" />
-            <element signature="e#10096#10097#0" expanded="true" />
-            <element signature="e#11523#11535#0" expanded="true" />
-            <element signature="e#11732#11744#0" expanded="true" />
-            <element signature="e#10480#10488#0" expanded="true" />
-            <element signature="e#12126#12138#0" expanded="true" />
-            <element signature="e#12350#12362#0" expanded="true" />
-            <element signature="e#11482#11483#0" expanded="true" />
-            <element signature="e#11549#11550#0" expanded="true" />
-            <element signature="e#11839#11840#0" expanded="true" />
-            <element signature="e#11879#11880#0" expanded="true" />
-            <element signature="e#11916#11917#0" expanded="true" />
-            <element signature="e#11959#11960#0" expanded="true" />
-            <element signature="e#12069#12077#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="34">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -521,49 +367,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-628">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-          <folding>
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#650#651#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#750#751#0" expanded="true" />
-            <element signature="e#792#793#0" expanded="true" />
-            <element signature="e#826#827#0" expanded="true" />
-            <element signature="e#855#856#0" expanded="true" />
-            <element signature="e#880#881#0" expanded="true" />
-            <element signature="e#916#917#0" expanded="true" />
-            <element signature="e#944#945#0" expanded="true" />
-            <element signature="e#990#991#0" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="51">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1223#1231#0" expanded="true" />
-            <element signature="e#2103#2111#0" expanded="true" />
-            <element signature="e#3957#3965#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
+        <state relative-caret-position="476">
           <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
           <folding>
             <element signature="e#402#403#0" expanded="true" />
@@ -582,13 +398,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#270#291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-696">
+        <state relative-caret-position="-1080">
           <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
