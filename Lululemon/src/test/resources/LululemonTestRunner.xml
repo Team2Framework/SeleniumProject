@@ -11,7 +11,7 @@
     <parameter name="url" value="https://www.eBay.com/"/>
 
 
-    <test name="Search Items">
+    <test name="Lululemon Test Home">
         <parameter name="browserName" value="chrome"/>
 
         <classes>
