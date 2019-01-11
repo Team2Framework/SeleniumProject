@@ -13,23 +13,33 @@
       <change afterPath="$PROJECT_DIR$/../NewTourDemoaut/NewTour/src/main/java/pages/LogIn.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NewTourDemoaut/NewTour/src/main/java/pages/SelectFlight.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NewTourDemoaut/NewTour/src/test/java/base/test/NewTourHomeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewTour.Demoaut/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/BookAFlight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/BookATicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/FlightConfirmation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/FlightFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/LogIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/SelectFlight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewTour.Demoaut/src/test/java/pages/test/NewTourTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewTour.Demoaut/src/test/resources/NewTourTestRunner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DolaProject" beforeDir="false" afterPath="$PROJECT_DIR$/../DolaProject" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DreamProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DreamProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DreamProject/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../DreamProject/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DreamProject/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../DreamProject/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DreamProject/Amazon/target/test-classes/AmazonTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DreamProject/Amazon/target/test-classes/AmazonTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DreamProject/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../DreamProject/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DreamProject/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DreamProject/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GroupProject2019" beforeDir="false" afterPath="$PROJECT_DIR$/../GroupProject2019" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Hope" beforeDir="false" afterPath="$PROJECT_DIR$/../Hope" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MidtermNovember2018" beforeDir="false" afterPath="$PROJECT_DIR$/../MidtermNovember2018" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Netflix" beforeDir="false" afterPath="$PROJECT_DIR$/../Netflix" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project2019" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2019" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumAutomationProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/Browser-Driver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/Browser-Driver/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Web-Automation-November2018" beforeDir="false" afterPath="$PROJECT_DIR$/../Web-Automation-November2018" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebAutomation2018/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAutomation2018/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZackProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ZackProject/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,97 +53,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-              <folding>
-                <element signature="e#402#403#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
-                <element signature="e#475#476#0" expanded="true" />
-                <element signature="e#511#512#0" expanded="true" />
-                <element signature="e#542#543#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-                <element signature="e#641#642#0" expanded="true" />
-                <element signature="e#673#674#0" expanded="true" />
-                <element signature="e#701#702#0" expanded="true" />
-                <element signature="e#743#744#0" expanded="true" />
-                <element signature="e#777#778#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1080">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/pom.xml">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3553">
+              <caret line="211" column="54" lean-forward="true" selection-start-line="210" selection-end-line="211" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#9327#9328#0" expanded="true" />
+                <element signature="e#9357#9358#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/src/test/resources/NewTourTestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/FlightFinder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/src/test/java/pages/test/NewTourTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/BookAFlight.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+              <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -142,23 +113,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
+        <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/LogIn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="261">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#270#291#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
+        <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/SelectFlight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+            <state relative-caret-position="493">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -193,13 +163,21 @@
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/Student.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/User.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" />
         <option value="$PROJECT_DIR$/NewTour.Demoaut/pom.xml" />
+        <option value="$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/BookAFlight.java" />
+        <option value="$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/FlightConfirmation.java" />
+        <option value="$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/SelectFlight.java" />
+        <option value="$PROJECT_DIR$/NewTour.Demoaut/src/test/java/pages/test/NewTourTest.java" />
+        <option value="$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/BookATicket.java" />
+        <option value="$PROJECT_DIR$/NewTour.Demoaut/src/test/resources/NewTourTestRunner.xml" />
+        <option value="$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/LogIn.java" />
+        <option value="$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/FlightFinder.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
       </list>
     </option>
   </component>
@@ -236,8 +214,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="676" />
-    <option name="y" value="15" />
+    <option name="x" value="315" />
+    <option name="y" value="45" />
     <option name="width" value="1250" />
     <option name="height" value="1040" />
   </component>
@@ -247,7 +225,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,21 +235,141 @@
             <path>
               <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="Browser-Driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
               <item name="NewTour.Demoaut" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="NewTour.Demoaut" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="NewTour.Demoaut" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="NewTour.Demoaut" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="NewTour.Demoaut" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="NewTour.Demoaut" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="NewTour.Demoaut" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="NewTour.Demoaut" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="NewTour.Demoaut" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547075973567" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547164796026" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zack\IdeaProjects\SeleniumProject\NewTour.Demoaut\src\test" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zack\IdeaProjects\SeleniumProject\Generic\Browser-Driver" />
       <recent name="C:\Users\Zack\IdeaProjects\SeleniumAutomationProject\Generic\Browser-Driver" />
     </key>
   </component>
@@ -288,6 +385,40 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Zack/IdeaProjects/SeleniumProject/NewTour.Demoaut/src/test/resources/NewTourTestRunner.xml">
+    <configuration name="C:/Users/Zack/IdeaProjects/SeleniumProject/NewTour.Demoaut/src/test/resources/NewTourTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NewTourDemoaut" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/NewTour.Demoaut/src/test/resources/NewTourTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewTourTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NewTourDemoaut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pages.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pages.test" />
+      <option name="MAIN_CLASS_NAME" value="pages.test.NewTourTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Zack/IdeaProjects/SeleniumProject/NewTour.Demoaut/src/test/resources/NewTourTestRunner.xml" />
+        <item itemvalue="TestNG.NewTourTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -301,10 +432,43 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="C__Users_Zack_IdeaProjects_SeleniumProject_NewTour_Demoaut_src_test_resources_NewTourTestRunner_xml - 2019.01.10 at 17h 04m 14s.xml">
+      <configuration name="C:/Users/Zack/IdeaProjects/SeleniumProject/NewTour.Demoaut/src/test/resources/NewTourTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Zack_IdeaProjects_SeleniumProject_NewTour_Demoaut_src_test_resources_NewTourTestRunner_xml - 2019.01.10 at 17h 04m 44s.xml">
+      <configuration name="C:/Users/Zack/IdeaProjects/SeleniumProject/NewTour.Demoaut/src/test/resources/NewTourTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Zack_IdeaProjects_SeleniumProject_NewTour_Demoaut_src_test_resources_NewTourTestRunner_xml - 2019.01.10 at 17h 14m 59s.xml">
+      <configuration name="C:/Users/Zack/IdeaProjects/SeleniumProject/NewTour.Demoaut/src/test/resources/NewTourTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Zack_IdeaProjects_SeleniumProject_NewTour_Demoaut_src_test_resources_NewTourTestRunner_xml - 2019.01.10 at 17h 17m 02s.xml">
+      <configuration name="C:/Users/Zack/IdeaProjects/SeleniumProject/NewTour.Demoaut/src/test/resources/NewTourTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Zack_IdeaProjects_SeleniumProject_NewTour_Demoaut_src_test_resources_NewTourTestRunner_xml - 2019.01.10 at 17h 18m 43s.xml">
+      <configuration name="C:/Users/Zack/IdeaProjects/SeleniumProject/NewTour.Demoaut/src/test/resources/NewTourTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Zack_IdeaProjects_SeleniumProject_NewTour_Demoaut_src_test_resources_NewTourTestRunner_xml - 2019.01.10 at 17h 21m 20s.xml">
+      <configuration name="C:/Users/Zack/IdeaProjects/SeleniumProject/NewTour.Demoaut/src/test/resources/NewTourTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Zack_IdeaProjects_SeleniumProject_NewTour_Demoaut_src_test_resources_NewTourTestRunner_xml - 2019.01.10 at 17h 24m 48s.xml">
+      <configuration name="C:/Users/Zack/IdeaProjects/SeleniumProject/NewTour.Demoaut/src/test/resources/NewTourTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Zack_IdeaProjects_SeleniumProject_NewTour_Demoaut_src_test_resources_NewTourTestRunner_xml - 2019.01.10 at 17h 25m 41s.xml">
+      <configuration name="C:/Users/Zack/IdeaProjects/SeleniumProject/NewTour.Demoaut/src/test/resources/NewTourTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Zack_IdeaProjects_SeleniumProject_NewTour_Demoaut_src_test_resources_NewTourTestRunner_xml - 2019.01.10 at 17h 32m 45s.xml">
+      <configuration name="C:/Users/Zack/IdeaProjects/SeleniumProject/NewTour.Demoaut/src/test/resources/NewTourTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Zack_IdeaProjects_SeleniumProject_NewTour_Demoaut_src_test_resources_NewTourTestRunner_xml - 2019.01.10 at 18h 01m 07s.xml">
+      <configuration name="C:/Users/Zack/IdeaProjects/SeleniumProject/NewTour.Demoaut/src/test/resources/NewTourTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19463088" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -313,19 +477,20 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32719547" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32719547" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.3295302" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.12482663" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Mongo Explorer" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
@@ -333,27 +498,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="89" column="12" selection-start-line="89" selection-start-column="12" selection-end-line="89" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="867">
           <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7123">
-          <caret line="469" selection-start-line="469" selection-end-line="469" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -398,6 +546,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -428,7 +593,6 @@
           <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#270#291#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -443,22 +607,180 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1080">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        <state relative-caret-position="136">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/FlightConfirmation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/pom.xml">
+    <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/BookATicket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="357">
+          <caret line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#0#1995#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/Browser-Driver/chromedriver.exe">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/FlightFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/SelectFlight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/BookAFlight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/LogIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/src/test/java/pages/test/NewTourTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/src/test/resources/NewTourTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3553">
+          <caret line="211" column="54" lean-forward="true" selection-start-line="210" selection-end-line="211" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#9327#9328#0" expanded="true" />
+            <element signature="e#9357#9358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>NewTourDemoaut</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.aventstack:extentreports:3.0.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
