@@ -14,14 +14,7 @@
       <change afterPath="$PROJECT_DIR$/../NewTourDemoaut/NewTour/src/main/java/pages/LogIn.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NewTourDemoaut/NewTour/src/main/java/pages/SelectFlight.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NewTourDemoaut/NewTour/src/test/java/base/test/NewTourHomeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/BookAFlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/BookATicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/FlightConfirmation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/FlightFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/LogIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/SelectFlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewTour.Demoaut/src/test/java/pages/test/NewTourTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewTour.Demoaut/src/test/resources/NewTourTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DolaProject" beforeDir="false" afterPath="$PROJECT_DIR$/../DolaProject" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DreamProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DreamProject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DreamProject/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../DreamProject/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
@@ -34,10 +27,6 @@
       <change beforePath="$PROJECT_DIR$/../MidtermNovember2018" beforeDir="false" afterPath="$PROJECT_DIR$/../MidtermNovember2018" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Netflix" beforeDir="false" afterPath="$PROJECT_DIR$/../Netflix" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project2019" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2019" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/Browser-Driver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/Browser-Driver/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Web-Automation-November2018" beforeDir="false" afterPath="$PROJECT_DIR$/../Web-Automation-November2018" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebAutomation2018/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAutomation2018/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ZackProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ZackProject/.idea/workspace.xml" afterDir="false" />
@@ -111,17 +100,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="3553">
               <caret line="211" column="54" lean-forward="true" selection-start-line="210" selection-end-line="211" selection-end-column="54" />
+=======
+            <state relative-caret-position="1573">
+              <caret line="145" column="14" selection-start-line="145" selection-start-column="14" selection-end-line="145" selection-end-column="14" />
+>>>>>>> e877e6f9db537873022207134c3ff3840509e980
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#9327#9328#0" expanded="true" />
-                <element signature="e#9357#9358#0" expanded="true" />
+                <element signature="e#4798#4806#0" expanded="true" />
+                <element signature="e#9289#9290#0" expanded="true" />
+                <element signature="e#9319#9320#0" expanded="true" />
+                <element signature="e#9365#9366#0" expanded="true" />
+                <element signature="e#9432#9433#0" expanded="true" />
+                <element signature="e#10272#10273#0" expanded="true" />
+                <element signature="e#10347#10348#0" expanded="true" />
+                <element signature="e#11207#11208#0" expanded="true" />
+                <element signature="e#11287#11288#0" expanded="true" />
+                <element signature="e#11338#11339#0" expanded="true" />
+                <element signature="e#11405#11406#0" expanded="true" />
+                <element signature="e#11523#11535#0" expanded="true" />
+                <element signature="e#11732#11744#0" expanded="true" />
+                <element signature="e#11789#11797#0" expanded="true" />
+                <element signature="e#12126#12138#0" expanded="true" />
+                <element signature="e#12350#12362#0" expanded="true" />
+                <element signature="e#12791#12792#0" expanded="true" />
+                <element signature="e#12858#12859#0" expanded="true" />
+                <element signature="e#13148#13149#0" expanded="true" />
+                <element signature="e#13188#13189#0" expanded="true" />
+                <element signature="e#13225#13226#0" expanded="true" />
+                <element signature="e#13268#13269#0" expanded="true" />
+                <element signature="e#13378#13386#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -130,7 +154,7 @@
         <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/src/test/resources/NewTourTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -163,11 +187,15 @@
         <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/BookAFlight.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
+<<<<<<< HEAD
               <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
 =======
             <state relative-caret-position="238">
               <caret line="217" column="18" lean-forward="true" selection-start-line="217" selection-start-column="18" selection-end-line="217" selection-end-column="18" />
 >>>>>>> origin/Victoria
+=======
+              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+>>>>>>> e877e6f9db537873022207134c3ff3840509e980
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -180,6 +208,7 @@
         <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/LogIn.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="261">
+<<<<<<< HEAD
               <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
 =======
         <entry file="file://$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/EnterZipCode1.java">
@@ -187,6 +216,9 @@
             <state relative-caret-position="258">
               <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
 >>>>>>> origin/Victoria
+=======
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+>>>>>>> e877e6f9db537873022207134c3ff3840509e980
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -277,6 +309,7 @@
         <option value="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/EnterZipCode1.java" />
 >>>>>>> origin/Victoria
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -305,6 +338,7 @@
   </component>
 <<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="315" />
     <option name="y" value="45" />
     <option name="width" value="1250" />
@@ -315,6 +349,11 @@
     <option name="width" value="1004" />
     <option name="height" value="1038" />
 >>>>>>> origin/Victoria
+=======
+    <option name="x" value="-20" />
+    <option name="width" value="1574" />
+    <option name="height" value="1039" />
+>>>>>>> e877e6f9db537873022207134c3ff3840509e980
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -987,7 +1026,7 @@
     <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/BookAFlight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
 =======
@@ -1008,7 +1047,7 @@
     <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/src/main/java/pages/LogIn.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
 =======
@@ -1039,16 +1078,17 @@
     <entry file="file://$PROJECT_DIR$/NewTour.Demoaut/src/test/resources/NewTourTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3553">
-          <caret line="211" column="54" lean-forward="true" selection-start-line="210" selection-end-line="211" selection-end-column="54" />
+        <state relative-caret-position="1573">
+          <caret line="145" column="14" selection-start-line="145" selection-start-column="14" selection-end-line="145" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
+<<<<<<< HEAD
             <element signature="e#9327#9328#0" expanded="true" />
             <element signature="e#9357#9358#0" expanded="true" />
 =======
@@ -1081,10 +1121,36 @@
             <element signature="e#235#236#0" expanded="true" />
             <element signature="e#262#263#0" expanded="true" />
 >>>>>>> origin/Victoria
+=======
+            <element signature="e#4798#4806#0" expanded="true" />
+            <element signature="e#9289#9290#0" expanded="true" />
+            <element signature="e#9319#9320#0" expanded="true" />
+            <element signature="e#9365#9366#0" expanded="true" />
+            <element signature="e#9432#9433#0" expanded="true" />
+            <element signature="e#10272#10273#0" expanded="true" />
+            <element signature="e#10347#10348#0" expanded="true" />
+            <element signature="e#11207#11208#0" expanded="true" />
+            <element signature="e#11287#11288#0" expanded="true" />
+            <element signature="e#11338#11339#0" expanded="true" />
+            <element signature="e#11405#11406#0" expanded="true" />
+            <element signature="e#11523#11535#0" expanded="true" />
+            <element signature="e#11732#11744#0" expanded="true" />
+            <element signature="e#11789#11797#0" expanded="true" />
+            <element signature="e#12126#12138#0" expanded="true" />
+            <element signature="e#12350#12362#0" expanded="true" />
+            <element signature="e#12791#12792#0" expanded="true" />
+            <element signature="e#12858#12859#0" expanded="true" />
+            <element signature="e#13148#13149#0" expanded="true" />
+            <element signature="e#13188#13189#0" expanded="true" />
+            <element signature="e#13225#13226#0" expanded="true" />
+            <element signature="e#13268#13269#0" expanded="true" />
+            <element signature="e#13378#13386#0" expanded="true" />
+>>>>>>> e877e6f9db537873022207134c3ff3840509e980
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/FinalQoute11.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1217,6 +1283,15 @@
         </settings>
       </state>
     </states>
+=======
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> e877e6f9db537873022207134c3ff3840509e980
   </component>
   <component name="masterDetails">
     <states>
