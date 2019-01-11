@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="NewTour Automation Script " parallel="false">
+
+
+    <parameter name="url" value="http://newtours.demoaut.com/"/><!--<parameter name="useCloudEnv" value="false"/>-->
+    <parameter name="cloudEnvName" value="browserstack"/>
+    <parameter name="os" value="windows"/>
+    <parameter name="os_version" value="1803"/>
+    <parameter name="browserName" value="${browserName}"/>
+    <parameter name="browserVersion" value="53.0"/>
+
+    <test name = "NewTour Home">
+        <classes>
+            <class name="pages.test.NewTourTest"/>
+        </classes>
+    </test>
+
+</suite>
