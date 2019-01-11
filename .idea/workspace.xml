@@ -2,30 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="349b5685-2d09-4f0a-bb49-93044aa89b3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../NewTourDemoaut/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewTourDemoaut/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewTourDemoaut/Generic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewTourDemoaut/Generic/src/main/java/commonbase/CommonAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewTourDemoaut/NewTour/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewTourDemoaut/NewTour/src/main/java/pages/BookAFlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewTourDemoaut/NewTour/src/main/java/pages/FlightConfirmation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewTourDemoaut/NewTour/src/main/java/pages/FlightFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewTourDemoaut/NewTour/src/main/java/pages/LogIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewTourDemoaut/NewTour/src/main/java/pages/SelectFlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewTourDemoaut/NewTour/src/test/java/base/test/NewTourHomeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DolaProject" beforeDir="false" afterPath="$PROJECT_DIR$/../DolaProject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DreamProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DreamProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GroupProject2019" beforeDir="false" afterPath="$PROJECT_DIR$/../GroupProject2019" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hope" beforeDir="false" afterPath="$PROJECT_DIR$/../Hope" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MidtermNovember2018" beforeDir="false" afterPath="$PROJECT_DIR$/../MidtermNovember2018" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netflix" beforeDir="false" afterPath="$PROJECT_DIR$/../Netflix" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project2019" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2019" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Web-Automation-November2018" beforeDir="false" afterPath="$PROJECT_DIR$/../Web-Automation-November2018" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebAutomation2018/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAutomation2018/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelersIns/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/CurrentCustomer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/CurrentInsInfo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/DriverInfo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/DriverInfo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/EnterZipCode1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/FinalQoute11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/PersonalInfo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/PersonalInfo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/VehicleInfo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/VehicleInfo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/VehicleInfo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelersIns/src/test/java/TravelersTestTome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelersIns/src/test/resources/TravelersTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eBay1BDD/eBayCucumber1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eBay1BDD/src/test/java/feature/Register.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eBay1BDD/src/test/java/feature/Register.features" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eBay1BDD/src/test/java/runner/RunnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eBay1BDD/src/test/java/stepDefinitions/RegisterSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eBayBDD/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eBayBDD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eBayBDD/eBayCucumber/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eBayBDD/eBayCucumber/src/test/java/feature/Register.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eBayBDD/eBayCucumber/src/test/java/runner/RunnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eBayBDD/eBayCucumber/src/test/java/stepDefinitions/RegisterSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travelers101/Generic/src/test/java/autoQuote/CurrentCustomer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travelers101/Generic/src/test/java/autoQuote/CurrentInsInfo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travelers101/Generic/src/test/java/autoQuote/DriverInfo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travelers101/Generic/src/test/java/autoQuote/DriverInfo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travelers101/Generic/src/test/java/autoQuote/EnterZipCode1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travelers101/Generic/src/test/java/autoQuote/FinalQoute11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travelers101/Generic/src/test/java/autoQuote/PersonalInfo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travelers101/Generic/src/test/java/autoQuote/PersonalInfo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travelers101/Generic/src/test/java/autoQuote/VehicleInfo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travelers101/Generic/src/test/java/autoQuote/VehicleInfo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travelers101/Generic/src/test/java/autoQuote/VehicleInfo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travelers101/travelersWebSite/src/test/java/test/quote/EnterZipCode1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumAutomationProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumProject101/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumProject101/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumProject101/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumProject101/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumProject101/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumProject101/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumProject101/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumProject101/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumProject101/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumProject101/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
+    <ignored path="$PROJECT_DIR$/TravelersIns/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,174 +65,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="469" selection-start-line="469" selection-end-line="469" />
+            <state relative-caret-position="238">
+              <caret line="217" column="18" lean-forward="true" selection-start-line="217" selection-start-column="18" selection-end-line="217" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3489#3497#0" expanded="true" />
-                <element signature="e#7980#7981#0" expanded="true" />
-                <element signature="e#8010#8011#0" expanded="true" />
-                <element signature="e#8056#8057#0" expanded="true" />
-                <element signature="e#8123#8124#0" expanded="true" />
-                <element signature="e#8963#8964#0" expanded="true" />
-                <element signature="e#9038#9039#0" expanded="true" />
-                <element signature="e#9898#9899#0" expanded="true" />
-                <element signature="e#9978#9979#0" expanded="true" />
-                <element signature="e#10029#10030#0" expanded="true" />
-                <element signature="e#10096#10097#0" expanded="true" />
-                <element signature="e#11523#11535#0" expanded="true" />
-                <element signature="e#11732#11744#0" expanded="true" />
-                <element signature="e#10480#10488#0" expanded="true" />
-                <element signature="e#12126#12138#0" expanded="true" />
-                <element signature="e#12350#12362#0" expanded="true" />
-                <element signature="e#11482#11483#0" expanded="true" />
-                <element signature="e#11549#11550#0" expanded="true" />
-                <element signature="e#11839#11840#0" expanded="true" />
-                <element signature="e#11879#11880#0" expanded="true" />
-                <element signature="e#11916#11917#0" expanded="true" />
-                <element signature="e#11959#11960#0" expanded="true" />
-                <element signature="e#12069#12077#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
+        <entry file="file://$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/EnterZipCode1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TravelersIns/src/test/java/TravelersTestTome.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1223#1231#0" expanded="true" />
-                <element signature="e#2103#2111#0" expanded="true" />
-                <element signature="e#3957#3965#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-              <folding>
-                <element signature="e#402#403#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
-                <element signature="e#475#476#0" expanded="true" />
-                <element signature="e#511#512#0" expanded="true" />
-                <element signature="e#542#543#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-                <element signature="e#641#642#0" expanded="true" />
-                <element signature="e#673#674#0" expanded="true" />
-                <element signature="e#701#702#0" expanded="true" />
-                <element signature="e#743#744#0" expanded="true" />
-                <element signature="e#777#778#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-696">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-628">
-              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-              <folding>
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-                <element signature="e#494#495#0" expanded="true" />
-                <element signature="e#536#537#0" expanded="true" />
-                <element signature="e#571#572#0" expanded="true" />
-                <element signature="e#602#603#0" expanded="true" />
-                <element signature="e#650#651#0" expanded="true" />
-                <element signature="e#690#691#0" expanded="true" />
-                <element signature="e#722#723#0" expanded="true" />
-                <element signature="e#750#751#0" expanded="true" />
-                <element signature="e#792#793#0" expanded="true" />
-                <element signature="e#826#827#0" expanded="true" />
-                <element signature="e#855#856#0" expanded="true" />
-                <element signature="e#880#881#0" expanded="true" />
-                <element signature="e#916#917#0" expanded="true" />
-                <element signature="e#944#945#0" expanded="true" />
-                <element signature="e#990#991#0" expanded="true" />
-                <element signature="e#1088#1089#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#270#291#0" expanded="true" />
-                <element signature="e#643#644#0" expanded="true" />
-                <element signature="e#689#690#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -218,7 +112,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -229,12 +123,27 @@
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/Student.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/User.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" />
+        <option value="$PROJECT_DIR$/TravelersIns/pom.xml" />
+        <option value="$PROJECT_DIR$/TravelersIns/src/test/java/TravelersTestTome.java" />
+        <option value="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/EnterZipCode.java" />
+        <option value="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/PersonalInfo3.java" />
+        <option value="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/PersonalInfo4.java" />
+        <option value="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/VehicleInfo5.java" />
+        <option value="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/CurrentCustomer2.java" />
+        <option value="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/VehicleInfo6.java" />
+        <option value="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/VehicleInfo7.java" />
+        <option value="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/DriverInfo8.java" />
+        <option value="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/DriverInfo9.java" />
+        <option value="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/CurrentInsInfo10.java" />
+        <option value="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/FinalQoute11.java" />
+        <option value="$PROJECT_DIR$/TravelersIns/src/test/resources/TravelersTestRunner.xml" />
+        <option value="$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/EnterZipCode1.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
       </list>
     </option>
   </component>
@@ -250,31 +159,21 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="TravelersIns" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="SeleniumAutomationProject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="SeleniumAutomationProject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="TravelersIns" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="676" />
-    <option name="y" value="15" />
-    <option name="width" value="1250" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="width" value="1004" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -287,38 +186,43 @@
         <subPane>
           <expand>
             <path>
-              <item name="SeleniumAutomationProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumAutomationProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumAutomationProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumAutomationProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumAutomationProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumAutomationProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumAutomationProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumAutomationProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumAutomationProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumAutomationProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumAutomationProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumAutomationProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -326,31 +230,62 @@
               <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumAutomationProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumAutomationProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="databases" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="TravelersIns" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumAutomationProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumAutomationProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="TravelersIns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="reporting" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumAutomationProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumAutomationProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="TravelersIns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="TravelersIns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="TravelersIns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="autoQuote" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="TravelersIns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="TravelersIns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="TravelersIns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -360,9 +295,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547074534582" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547165040493" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Web-Automation-November2018" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Victoria\IdeaProjects\SeleniumProject\TravelersIns\src\test" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Zack\IdeaProjects\SeleniumAutomationProject\Generic\Browser-Driver" />
     </key>
@@ -379,6 +322,23 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="C:/Users/Victoria/IdeaProjects/SeleniumProject/TravelersIns/src/test/resources/TravelersTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TravelersIns" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TravelersIns/src/test/resources/TravelersTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Victoria/IdeaProjects/SeleniumProject/TravelersIns/src/test/resources/TravelersTestRunner.xml" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -392,128 +352,92 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="C__Users_Victoria_IdeaProjects_SeleniumProject_TravelersIns_src_test_resources_TravelersTestRunner_xml - 2019.01.10 at 11h 43m 36s.xml">
+      <configuration name="C:/Users/Victoria/IdeaProjects/SeleniumProject/TravelersIns/src/test/resources/TravelersTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Victoria_IdeaProjects_SeleniumProject_TravelersIns_src_test_resources_TravelersTestRunner_xml - 2019.01.10 at 11h 57m 39s.xml">
+      <configuration name="C:/Users/Victoria/IdeaProjects/SeleniumProject/TravelersIns/src/test/resources/TravelersTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Victoria_IdeaProjects_SeleniumProject_TravelersIns_src_test_resources_TravelersTestRunner_xml - 2019.01.10 at 12h 07m 58s.xml">
+      <configuration name="C:/Users/Victoria/IdeaProjects/SeleniumProject/TravelersIns/src/test/resources/TravelersTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Victoria_IdeaProjects_SeleniumProject_TravelersIns_src_test_resources_TravelersTestRunner_xml - 2019.01.10 at 17h 14m 33s.xml">
+      <configuration name="C:/Users/Victoria/IdeaProjects/SeleniumProject/TravelersIns/src/test/resources/TravelersTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Victoria_IdeaProjects_SeleniumProject_TravelersIns_src_test_resources_TravelersTestRunner_xml - 2019.01.10 at 17h 14m 57s.xml">
+      <configuration name="C:/Users/Victoria/IdeaProjects/SeleniumProject/TravelersIns/src/test/resources/TravelersTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Victoria_IdeaProjects_SeleniumProject_TravelersIns_src_test_resources_TravelersTestRunner_xml - 2019.01.10 at 17h 18m 48s.xml">
+      <configuration name="C:/Users/Victoria/IdeaProjects/SeleniumProject/TravelersIns/src/test/resources/TravelersTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18255034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.329429" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32796487" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" visible="true" weight="0.3295302" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Mongo Explorer" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.19865772" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18255034" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.329429" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32796487" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.19865772" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="89" column="12" selection-start-line="89" selection-start-column="12" selection-end-line="89" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#270#291#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="469" selection-start-line="469" selection-end-line="469" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3489#3497#0" expanded="true" />
-            <element signature="e#7980#7981#0" expanded="true" />
-            <element signature="e#8010#8011#0" expanded="true" />
-            <element signature="e#8056#8057#0" expanded="true" />
-            <element signature="e#8123#8124#0" expanded="true" />
-            <element signature="e#8963#8964#0" expanded="true" />
-            <element signature="e#9038#9039#0" expanded="true" />
-            <element signature="e#9898#9899#0" expanded="true" />
-            <element signature="e#9978#9979#0" expanded="true" />
-            <element signature="e#10029#10030#0" expanded="true" />
-            <element signature="e#10096#10097#0" expanded="true" />
-            <element signature="e#11523#11535#0" expanded="true" />
-            <element signature="e#11732#11744#0" expanded="true" />
-            <element signature="e#10480#10488#0" expanded="true" />
-            <element signature="e#12126#12138#0" expanded="true" />
-            <element signature="e#12350#12362#0" expanded="true" />
-            <element signature="e#11482#11483#0" expanded="true" />
-            <element signature="e#11549#11550#0" expanded="true" />
-            <element signature="e#11839#11840#0" expanded="true" />
-            <element signature="e#11879#11880#0" expanded="true" />
-            <element signature="e#11916#11917#0" expanded="true" />
-            <element signature="e#11959#11960#0" expanded="true" />
-            <element signature="e#12069#12077#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="34">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -521,49 +445,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-628">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-          <folding>
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#650#651#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#750#751#0" expanded="true" />
-            <element signature="e#792#793#0" expanded="true" />
-            <element signature="e#826#827#0" expanded="true" />
-            <element signature="e#855#856#0" expanded="true" />
-            <element signature="e#880#881#0" expanded="true" />
-            <element signature="e#916#917#0" expanded="true" />
-            <element signature="e#944#945#0" expanded="true" />
-            <element signature="e#990#991#0" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="51">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1223#1231#0" expanded="true" />
-            <element signature="e#2103#2111#0" expanded="true" />
-            <element signature="e#3957#3965#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
+        <state relative-caret-position="476">
           <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
           <folding>
             <element signature="e#402#403#0" expanded="true" />
@@ -582,9 +476,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#270#291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-696">
+        <state relative-caret-position="17">
           <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -592,5 +538,240 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/Browser-Driver/chromedriver.exe">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelersIns/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="89" column="12" selection-start-line="89" selection-start-column="12" selection-end-line="89" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/CurrentCustomer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/PersonalInfo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/PersonalInfo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/VehicleInfo5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/VehicleInfo7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/VehicleInfo6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="38" column="33" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="38" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/DriverInfo8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/DriverInfo9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/FinalQoute11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelersIns/src/test/resources/TravelersTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/CurrentInsInfo10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelersIns/src/test/java/TravelersTestTome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelersIns/src/main/java/autoQuote/EnterZipCode1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="217" column="18" lean-forward="true" selection-start-line="217" selection-start-column="18" selection-end-line="217" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TravelersIns</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.aventstack:extentreports:3.0.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
