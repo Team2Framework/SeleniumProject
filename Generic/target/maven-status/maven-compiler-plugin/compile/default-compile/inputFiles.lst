@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Zack\IdeaProjects\SeleniumProject\Generic\src\main\java\databases\Student.java
 C:\Users\Zack\IdeaProjects\SeleniumProject\Generic\src\main\java\utility\DataReader.java
 C:\Users\Zack\IdeaProjects\SeleniumProject\Generic\src\main\java\base\CommonAPI.java
@@ -8,3 +9,15 @@ C:\Users\Zack\IdeaProjects\SeleniumProject\Generic\src\main\java\databases\Conne
 C:\Users\Zack\IdeaProjects\SeleniumProject\Generic\src\main\java\reporting\TestLogger.java
 C:\Users\Zack\IdeaProjects\SeleniumProject\Generic\src\main\java\reporting\ExtentManager.java
 C:\Users\Zack\IdeaProjects\SeleniumProject\Generic\src\main\java\reporting\ApplicationLog.java
+=======
+C:\Users\Victoria\IdeaProjects\SeleniumProject\Generic\src\main\java\base\CommonAPI.java
+C:\Users\Victoria\IdeaProjects\SeleniumProject\Generic\src\main\java\databases\User.java
+C:\Users\Victoria\IdeaProjects\SeleniumProject\Generic\src\main\java\reporting\ExtentTestManager.java
+C:\Users\Victoria\IdeaProjects\SeleniumProject\Generic\src\main\java\databases\ConnectToMongoDB.java
+C:\Users\Victoria\IdeaProjects\SeleniumProject\Generic\src\main\java\reporting\TestLogger.java
+C:\Users\Victoria\IdeaProjects\SeleniumProject\Generic\src\main\java\reporting\ExtentManager.java
+C:\Users\Victoria\IdeaProjects\SeleniumProject\Generic\src\main\java\databases\ConnectToSqlDB.java
+C:\Users\Victoria\IdeaProjects\SeleniumProject\Generic\src\main\java\databases\Student.java
+C:\Users\Victoria\IdeaProjects\SeleniumProject\Generic\src\main\java\reporting\ApplicationLog.java
+C:\Users\Victoria\IdeaProjects\SeleniumProject\Generic\src\main\java\utility\DataReader.java
+>>>>>>> origin/Victoria
